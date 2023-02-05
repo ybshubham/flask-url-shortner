@@ -28,4 +28,6 @@ Flask web application for shortening URL
 ```
 
 # Live Demo
-Site URL : https://url-shortner-f2ny.onrender.com/
+Site URL : https://url-shortner-f2ny.onrender.com/  
+
+![Live Demo](app/static/images/demo_site.png?raw=true "Title")
